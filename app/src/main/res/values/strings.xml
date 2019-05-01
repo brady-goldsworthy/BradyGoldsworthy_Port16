@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Portfolio16</string>
+    <string name="web_url">http://faculty.cs.niu.edu/~byrnes/android/json.php</string>
+    <string name="button_label">Get Data</string>
+</resources>
